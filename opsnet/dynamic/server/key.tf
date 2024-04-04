@@ -1,0 +1,5 @@
+resource "aws_key_pair" "white_board_key" {
+  key_name   = "white_board_key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCYISpWUgw099SWCS98vPJ4gMz3wTUiIpUNi64uNywyKqj+is8IIPiWiyIA5tmJFSsPvnSrBl6wH/f3+UOJhRy+r65EEjO/O7o1ZqmVPEOQf9L6McnXNqgkIspPmwRIO7QGEFo38voFem+aiHmjz8UQfG6//mt0qZCEGjve99PeH2hXUM/N1iU3b/ibX/0ZGLe0Z8ENmZEMoUANrCCp6+b9d9PUxeGjQKIaidaopiATKQ8dzZitRmEBMzjfI1C4IDCwSw8wK7kRvV246j43xIb8tEEB+2DUnMsfLhFPNQJMUPazUI/oyd2KuaA5JNe1B9IthFi9s0MxCQvyIiUNtC9GU3+U+nwknCgHTfvwPoztcgXClzxREk7gmRN3DTXs+sAZESqBH2TalnVWUxZHofsgfSbrW/rUhH70qkb1Wq8lQzf91Kqo44pl5ruC/bxCy5nPswoRlIJZg5Nw/UAWosQJVXbMP3l81mJ/jzEWQX+oB6iS81xkDd4dng7Dz0E7hrE= mzc01-jhp@MZC01-JHP-2.local"
+
+}
